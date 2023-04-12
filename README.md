@@ -1,8 +1,8 @@
 # Chat Zone
-• A Web RTC React application build on node server for peer to peer Real time chat.
-• Integrated the Multiavatar API, enabling users to select their own unique avatars for a personalized chat experience.
-• Used Socket.io for establishing one to one connection and enhanced the design using React components and hooks.
-• Technologies Used : [ReactJs](https://react.dev/), [NodeJs](https://nodejs.org/en), [Socket.io](https://socket.io/), [MongoDB](https://www.mongodb.com/)
+* A Web RTC React application build on node server for peer to peer Real time chat.
+* Integrated the Multiavatar API, enabling users to select their own unique avatars for a personalized chat experience.
+* Used Socket.io for establishing one to one connection and enhanced the design using React components and hooks.
+* Technologies Used : [ReactJs](https://react.dev/) [NodeJs](https://nodejs.org/en) [Socket.io](https://socket.io/) [MongoDB](https://www.mongodb.com/)
 
 # Getting Started with Create React App
 
